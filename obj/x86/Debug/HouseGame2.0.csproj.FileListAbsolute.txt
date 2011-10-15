@@ -1,0 +1,27 @@
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.exe
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.pdb
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.exe
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.pdb
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Form1.resources
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Properties.Resources.resources
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.exe
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.pdb
+F:\New Folder\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.exe
+F:\New Folder\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.pdb
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Form1.resources
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Properties.Resources.resources
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\New Folder\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\bin\Debug\HouseGame.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Form1.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\GenerateResource.write.1.tlog

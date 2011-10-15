@@ -1,0 +1,11 @@
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\HouseGame.Form1.resources
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\HouseGame.Properties.Resources.resources
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\bin\Debug\HouseGame.exe
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\bin\Debug\HouseGame.pdb
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\HouseGame.exe
+c:\documents and settings\jorge\my documents\visual studio 2010\Projects\HouseGame\HouseGame\obj\x86\Debug\HouseGame.pdb
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.exe
+C:\Documents and Settings\Jorge\My Documents\Visual Studio 2010\Projects\HouseGame 2.0\HouseGame\obj\x86\Debug\HouseGame.pdb
